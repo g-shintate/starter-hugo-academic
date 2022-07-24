@@ -35,7 +35,7 @@ education:
       year: 2020
     - course: Marine Biology (Sandwich Year)
       institution: University of Glasgow
-      year: 2014
+      year: 2018
     - course: B.Sc. Interdisciplinary Studies (Marine Science)
       institution: Universidade Federal de São Paulo
       year: 2018
