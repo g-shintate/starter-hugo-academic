@@ -3,6 +3,20 @@ title: "Growing at the limit: Reef growth sensitivity to climate and
   oceanographic changes in the South Western Atlantic"
 publication_types:
   - "0"
+authors:
+  - Guilherme H Pereira-Filho
+  - Vinícius R Mendes
+  - Chris T Perry
+  - admin
+  - Willians C Niz
+  - André O Sawakuchi
+  - Alex C Bastos
+  - Paulo César F Giannini
+  - Fabio S Motta
+  - Christian Millo
+  - Gustavo M Paula-Santos
+  - Rodrigo L Moura
+doi: 10.1016/j.gloplacha.2021.103479
 publication: In "Global and Planetary Change"
 publication_short: in "Glob. Planet. Change"
 abstract: Whilst the impacts of climatic and oceanographic change on lower
