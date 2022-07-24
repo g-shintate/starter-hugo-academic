@@ -16,8 +16,8 @@ authors:
   - Vinicius J. Giglio
   - Guilherme H. Pereira-Filho
 doi: 10.1016/j.rsma.2021.101951
-publication: Regional Studies in Marine Science
-publication_short: Regi Stud Mar Sci
+publication: In "Regional Studies in Marine Science"
+publication_short: In "Regi Stud Mar Sci"
 abstract: Marine protected areas (MPAs) represent a useful tool for resource
   management, as well as to conserve and/or restore biological communities. The
   level of protection is key factor influencing the marine biodiversity, where a
